@@ -38,8 +38,8 @@ A sophisticated home automation system that bridges the gap between environmenta
 
 ### Hardware Setup
 <p align="center">
-  <img src="screenshots/montaj_hardware1.png" width="600" title="Circuit Pictures">
-  <img src="screenshots/montaj_hardware2.png" width="600" title="Circuit Pictures">
+  <img src="screenshots/montaj_hardware1.jpg" width="600" title="Circuit Pictures">
+  <img src="screenshots/montaj_hardware2.jpg" width="600" title="Circuit Pictures">
 </p>
 
 ---
