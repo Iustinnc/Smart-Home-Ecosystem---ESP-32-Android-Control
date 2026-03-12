@@ -64,15 +64,15 @@ The system interprets raw sensor data and categorizes it based on international 
   <tr>
     <td>
       <p align="center"><b>Dashboard</b></p>
-      <img src="screenshots/app_dashboard.jpg" width="250">
+      <img src="Screenshots/app_dashboard.jpg" width="250">
     </td>
     <td>
       <p align="center"><b>Settings</b></p>
-      <img src="screenshots/app_settings.jpg" width="250">
+      <img src="Screenshots/app_settings.jpg" width="250">
     </td>
     <td>
       <p align="center"><b>Customization</b></p>
-      <img src="screenshots/app_custom.jpg" width="250">
+      <img src="Screenshots/app_lights.jpg" width="250">
     </td>
   </tr>
 </table>
