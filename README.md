@@ -36,6 +36,14 @@ A sophisticated home automation system that bridges the gap between environmenta
 
 ---
 
+### Hardware Setup
+<p align="center">
+  <img src="screenshots/montaj_hardware1.png" width="600" title="Circuit Pictures">
+  <img src="screenshots/montaj_hardware2.png" width="600" title="Circuit Pictures">
+</p>
+
+---
+
 ## 📊 Air Quality Index (AQI) Logic
 The system interprets raw sensor data and categorizes it based on international standards:
 
@@ -47,6 +55,27 @@ The system interprets raw sensor data and categorizes it based on international 
 | **151 - 200** | Moderately Polluted | 🟠 Orange |
 | **201 - 300** | Heavily Polluted | 🔴 Red |
 | **301 - 500** | Severely Polluted | 🟣 Purple |
+
+---
+
+## 📸 App Screenshots
+
+<table border="0">
+  <tr>
+    <td>
+      <p align="center"><b>Dashboard</b></p>
+      <img src="screenshots/app_dashboard.jpg" width="250">
+    </td>
+    <td>
+      <p align="center"><b>Settings</b></p>
+      <img src="screenshots/app_settings.jpg" width="250">
+    </td>
+    <td>
+      <p align="center"><b>Customization</b></p>
+      <img src="screenshots/app_custom.jpg" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
